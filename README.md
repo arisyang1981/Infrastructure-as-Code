@@ -36,3 +36,8 @@ Apply - Make the planned changes.
 
 
 terraform init/fmt/validate/plan/apply/destroy/state --help
+
+
+Best practice:  
+Manage configure file using CVS, such as git.  
+Store state file to cloud, remote backend.
