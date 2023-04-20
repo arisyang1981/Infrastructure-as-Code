@@ -18,3 +18,18 @@ https://www.hashicorp.com/resources/what-is-infrastructure-as-code
 https://developer.hashicorp.com/terraform/intro  
 Terraform can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.  
 Question: How manage applications?  
+
+
+Providers: public provider, and public registry  
+Three stages of workflow: write, plan, apply
+Configuration file  
+state file  
+backend file  
+module: reusable Terraform configuration  
+Terraform providers automatically calculate dependencies between resources to create or destroy them in the correct order.  
+
+Scope - Identify the infrastructure for your project.  
+Author - Write the configuration for your infrastructure.  
+Initialize - Install the plugins Terraform needs to manage the infrastructure.  
+Plan - Preview the changes Terraform will make to match your configuration.  
+Apply - Make the planned changes.  
