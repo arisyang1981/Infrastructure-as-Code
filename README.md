@@ -21,7 +21,7 @@ Question: How manage applications?
 
 
 Providers: public provider, and public registry  
-Three stages of workflow: write, plan, apply
+Three stages of workflow: write, plan, apply  
 Configuration file  
 state file  
 backend file  
@@ -33,3 +33,6 @@ Author - Write the configuration for your infrastructure.
 Initialize - Install the plugins Terraform needs to manage the infrastructure.  
 Plan - Preview the changes Terraform will make to match your configuration.  
 Apply - Make the planned changes.  
+
+
+terraform init/fmt/validate/plan/apply/destroy/state --help
