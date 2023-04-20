@@ -10,4 +10,5 @@ https://developer.hashicorp.com/terraform/tutorials/certification-003?ajs_aid=2c
 #Study Guide  
 #Learn about Infrastructure as Code (IaC)  
 Tranditional Infra management vs IaC  
-Trandition manage Infra via manual/GUI/customized scirpts: hard to track history, re-create, across-platform, inefficient elastic.
+Trandition manage Infra via manual/GUI/customized scirpts: hard to track history, re-create, across-platform, inefficient elastic.  
+https://www.hashicorp.com/resources/what-is-infrastructure-as-code  
