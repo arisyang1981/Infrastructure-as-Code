@@ -35,9 +35,9 @@ Plan - Preview the changes Terraform will make to match your configuration.
 Apply - Make the planned changes.  
 
 
-terraform init/fmt/validate/plan/apply/destroy/state --help
+terraform init/fmt/validate/plan/apply/destroy/state/output --help
 
 
 Best practice:  
 Manage configure file using CVS, such as git.  
-Store state file to cloud, remote backend.
+Store state file to cloud, remote backend.  
